@@ -28,7 +28,7 @@ WinPrivz is a PowerShell script to assist Penetration Testers in identifying som
 - Saved Domain Credentials (runas /savecred)
 - Stored SSH PuTTY Sessions/Credentials
 
-[!] Coming Soon:
+[ ! ] Coming Soon:
 - Startup Application Abuse
 - Kernel Exploits
 
