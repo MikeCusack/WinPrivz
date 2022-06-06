@@ -32,6 +32,8 @@ WinPrivz is a PowerShell script to assist Penetration Testers in identifying som
 - Startup Application Abuse
 - Kernel Exploits
 
+
+
 To use:
 1. A copy of SysInternal's AccessChk.exe is required. Download Here: https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk
 2. Ensure the PowerShell script is executed from the same directory as accesschk.exe!
